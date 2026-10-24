@@ -1,4 +1,4 @@
-# Getting started
+# Getting started bitonix
 
 Material for MkDocs is a documentation framework built on [MkDocs],
 a static site generator for project documentation. If you're familiar with
